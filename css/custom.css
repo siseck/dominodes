@@ -48,13 +48,13 @@ body {
 
 .cell { background-color: white; }
 
-.blue{ background-color: rgb(172, 172, 231); }
-.teal{ background-color: rgb(89, 222, 239); }
-.green{ background-color: rgb(88, 232, 167); }
-.yellow{ background-color: rgb(214, 242, 130); }
-.orange{ background-color: rgb(247, 209, 111); }
-.red{ background-color: rgb(250, 161, 135); }
-.pink{ background-color: rgb(247, 158, 212); }
+.blue{ background-color: rgb(1, 1, 1); }
+.teal{ background-color: rgb(200, 200, 200); }
+.green{ background-color: rgb(100, 100, 100); }
+.yellow{ background-color: rgb(15, 15, 15); }
+.orange{ background-color: rgb(77, 200, 77); }
+.red{ background-color: rgb(50, 61, 100); }
+.pink{ background-color: rgb(47, 58, 12); }
 .grey{ background-color: #DEDEDE; }
 
 .cell .left { background: rgba(255,255,255, 0.8); }
